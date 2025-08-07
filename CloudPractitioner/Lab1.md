@@ -10,13 +10,13 @@ In traditional infrastructure, companies invest heavily upfront in physical hard
 
 **Cloud environments are generally classified into four types:**
 
-- Public Cloud: Services are delivered over the internet and shared across multiple customers (e.g., AWS).
+- **Public Cloud:** Services are delivered over the internet and shared across multiple customers (e.g., AWS).
 
-- Private Cloud: Infrastructure is used exclusively by a single organization, often hosted on-premises or in a private data center.
+- **Private Cloud:** Infrastructure is used exclusively by a single organization, often hosted on-premises or in a private data center.
 
-- Hybrid Cloud: A mix of public and private clouds, allowing data and applications to be shared between them.
+- **Hybrid Cloud:** A mix of public and private clouds, allowing data and applications to be shared between them.
 
-- Community Cloud: Shared infrastructure between organizations with common concerns, such as regulatory requirements or industry standards.
+- **Community Cloud:** Shared infrastructure between organizations with common concerns, such as regulatory requirements or industry standards.
 
 **There are three primary cloud service models:**
 
