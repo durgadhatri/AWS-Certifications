@@ -8,7 +8,7 @@ The core characteristics of cloud computing include on-demand self-service, broa
 
 In traditional infrastructure, companies invest heavily upfront in physical hardware and data centers. This requires long provisioning times, dedicated IT staff, and often leads to overprovisioning or underutilization. In contrast, cloud infrastructure allows businesses to scale resources instantly, reduce operational overhead, and respond quickly to changing demands.
 
-**Cloud environments are generally classified into four types:**
+**Cloud environments are generally classified into three types:**
 
 There’s no one type of cloud computing that’s right for everyone. Several different cloud computing models, types, and services have evolved to meet the rapidly changing technology needs of organizations. There are three main ways to deploy cloud services: using a **public cloud**, **private cloud**, or **hybrid cloud**.
 
